@@ -4,6 +4,7 @@ public class Factorial {
 
     public static void main(String[] args) {
         //Hacemos click derecho Format
+        //Hacemos el Rename
         
         int j;
         int f;
